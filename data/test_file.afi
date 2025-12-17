@@ -1,0 +1,18 @@
+<ImageList>
+  <Image>
+    <Path>/Users/tucos/Documents/ndpis_to_afi/data/test_file-Dapi.ndpi</Path>
+    <ChannelName>Dapi</ChannelName>
+  </Image>
+  <Image>
+    <Path>/Users/tucos/Documents/ndpis_to_afi/data/test_file-TRITC.ndpi</Path>
+    <ChannelName>TRITC</ChannelName>
+  </Image>
+  <Image>
+    <Path>/Users/tucos/Documents/ndpis_to_afi/data/test_file-CY5.ndpi</Path>
+    <ChannelName>CY5</ChannelName>
+  </Image>
+  <Image>
+    <Path>/Users/tucos/Documents/ndpis_to_afi/data/test_file-AutoFL.ndpi</Path>
+    <ChannelName>AutoFL</ChannelName>
+  </Image>
+</ImageList>
