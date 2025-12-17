@@ -1,0 +1,6 @@
+[NanoZoomer Digital Pathology Image Set]
+NoImages=4
+Image0=test_file-Dapi.ndpi
+Image2=test_file-TRITC.ndpi
+Image3=test_file-CY5.ndpi
+Image4=test_file-AutoFL.ndpi
