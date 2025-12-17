@@ -13,3 +13,7 @@ Run the script from the command line, providing the path to the root directory y
 ```bash
 python ndpis2afi.py /path/to/data_folder
 ```
+
+## Requirements
+
+- `python 3.9+`
